@@ -1,5 +1,44 @@
-name: Students for a Deliberative Democracy
+title: Students for a Deliberative Democracy
+description: A Strong Democracy is a Deliberative Democracy
+logo:   site-logo.png
+disqus_shortname:   
+search: false
+
+# Owner/author information
+owner:
+  name:           Your Name
+  avatar:         your-photo.jpg
+  email:          your@email.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: S4DD_Org
+  facebook: Students
+  github:   dgfranklin
+  linkedin:
+  instagram:
+  tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    "http://plus.google.com/123123123123132123"
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about/
+  - title: Articles
+    url: /articles/
+  - title: Google
+    url: http://google.com
+    external: true
+
 markdown: redcarpet
 pygments: true
 timezone: America/New_YorkA
 baseurl: /s4dd-site
+
+permalink:   /:categories/:title/
