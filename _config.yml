@@ -6,18 +6,18 @@ search: false
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         your-photo.jpg
-  email:          your@email.com
+  name:           Students for a Deliberative Democracy
+  avatar:
+  email:
   # Social networking links used in footer. Update and remove as you like.
   twitter: S4DD_Org
-  facebook: Students
-  github:   dgfranklin
+  facebook: s4dd.org
+  github:
   linkedin:
   instagram:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    "http://plus.google.com/123123123123132123"
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -30,8 +30,10 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Articles
-    url: /articles/
+  - title: Archive
+    url: /archive/
+  - title: Mailing List Signup
+    url: /sign-up
   - title: Google
     url: http://google.com
     external: true

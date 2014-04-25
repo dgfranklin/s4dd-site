@@ -1,33 +1,18 @@
 ---
 layout: page
 permalink: /about/
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
-modified: 2013-09-13
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+title: About Us
+tags: [s4dd]
+modified: 2014-04-25
 ---
+Carnegie Mellon’s Program for Deliberative Democracy (PDD) is helping to make Pittsburgh a national center for deliberative democracy. Through its work facilitating deliberative public engagement in communities throughout Pittsburgh, across the state, and across the country, the PDD builds strong ties between citizens and policymakers, developing connections that strengthen the voice of citizens in decision making processes.
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+With its newest initiative, Students for a Deliberative Democracy (S4DD), the Program is developing a core team of young deliberative practitioners who help make democracy strong. Deliberative practitioners promote inclusion, support informed citizen engagement, and connect citizen deliberations to decision making processes.
 
-## So Simple Theme is all about:
+Members of Students for a Deliberative Democracy (S4DD) will:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/articles/so-simple-theme/code-highlighting-post/) to make your code examples look snazzy.
-* Simple search that overlays results based on post title.
-* [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
-* [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
+* Learn from the people who are on the front lines, strengthening democracy in Pittsburgh and across the country
+* Gain practical skills for supporting informed, inclusive, and impactful citizen engagement
+* Connect to a national network of deliberative practitioners: students, scholars, community organizers, and public officials.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+To stay connected, connect with us on [Facebook](http://facebook.com/s4dd.org) and sign up for our [Newsletter](/sign-up)
