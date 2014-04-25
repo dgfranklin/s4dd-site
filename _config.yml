@@ -2,13 +2,15 @@ title: Students for a Deliberative Democracy
 description: A Strong Democracy is a Deliberative Democracy
 logo:   site-logo.png
 disqus_shortname:   s4dd
-search: false
+search: true
+
+paginate: 5
 
 # Owner/author information
 owner:
   name:           Students for a Deliberative Democracy
   avatar:
-  email:
+  email:    dgfranklin@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: S4DD_Org
   facebook: s4dd.org
