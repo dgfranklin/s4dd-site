@@ -36,9 +36,6 @@ links:
     url: /archive/
   - title: Mailing List Signup
     url: /sign-up
-  - title: Google
-    url: http://google.com
-    external: true
 
 markdown: redcarpet
 pygments: true
