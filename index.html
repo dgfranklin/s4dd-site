@@ -13,7 +13,7 @@ tags: [Jekyll, theme, themes, responsive, blog, minimalism]
 {% for post in paginator.posts %}
   <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
   <p class="author">
-    <span class="date">{{ post.date }}</span>
+  <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>
   </p>
   <div class="content">
     {{ post.content }}
